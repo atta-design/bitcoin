@@ -1,0 +1,201 @@
+
+
+
+
+
+
+p{
+    color: rgb(128, 128, 128);
+}
+header{ 
+    margin-top: 4%;
+margin-left: 8%;
+   margin-right: 8%;
+  
+}
+main{
+    margin-top: 4%;
+    margin-left: 8%;
+       margin-right: 8%;
+}
+a{
+    text-decoration: none!important;
+}
+.logo{
+    margin-bottom: 7%;
+}
+.logo h1{
+    font-size: 3vw;
+}
+.navbar{
+    margin-top: 50px;
+    margin-bottom: 5%;
+}
+.nav-link{
+    color: rgb(255, 187, 0);
+    font-size: 1.9vw;
+}
+.navbar-brand{
+    font-size: 1.9vw!important;
+}
+.nav-icon{
+    background-color: black;
+}
+
+.sign-up{
+    padding: 1.5vw 2vw;
+    margin-left:169px ;
+    margin-top: 50px;
+    color: aliceblue;
+    border-radius:10%;
+    background-color: rgb(68, 0, 255);
+    border-radius: 40%;
+   
+}
+.sign-up:hover{
+    color:aliceblue ;
+    background-color:rgba(68, 0, 255, 0.671) ;
+    transition: ease .8s;
+}
+.my-bil{
+    font-size: 5vw;
+    color: rgba(0, 0, 0, 0.788);
+    
+    
+}
+.my-bil-1{
+    color: rgb(128, 128, 128);
+    font-size:1.7vw ;
+}
+.links{
+    margin-top: 14%;
+}
+.ma-h2{
+    font-size:4vw ;
+}
+.hor{
+ margin-top: 7%;
+ margin-bottom: 10%;
+ 
+}
+.ma-ul{
+   padding: 10px;
+ list-style: none ;
+ margin-top: 10%!important;
+ background-color: rgba(0, 0, 0, 0.61);
+ border-radius: 10%;
+ margin-bottom: 8%;
+
+}
+.photo img{
+    height:51vw ;
+    /* margin-top: 20%; */
+}
+.ma-price{
+    margin-top: 10%;
+}
+.card{
+    width: 15vw;
+    box-shadow:2vw 2vw 2vw gray ;
+    
+   
+}
+.card p{
+    font-size: 1.2vw;
+    margin-left: 2%;
+}
+.card-a{
+    margin-top: 10%!important;
+    margin-left: 5%!important;
+     
+}
+.card-a:hover{
+    padding:0.5% ;
+    transition: ease.9s;
+}
+.bt{
+    margin: 0 auto;
+}
+.bt-ex{
+    padding: 2vw 7vw ;
+    background-color: rgba(0, 0, 0, 0.678);
+    margin-left:4%;
+    margin-right: 23%;
+    margin-top: 6%;
+    
+    color: antiquewhite;
+    font-weight:700;
+    border-radius: 10%;
+}
+.bt-chart{
+    padding: 2vw 7vw ;
+    background-color:rgba(255, 255, 255, 0.541);
+    margin-left: 5%;
+    margin-right: 13%;
+    margin-top: 6%;
+    color:rgba(0, 0, 0, 0.678) ;
+    font-weight:700;
+    border:double rgba(0, 0, 0, 0.678);
+    border-radius: 10%;
+
+}
+.bt-ex:hover{
+    background-color: rgba(0, 0, 0, 0.726);
+    color: antiquewhite;
+   
+}
+.bt-chart:hover{
+    color:rgba(0, 0, 0, 0.678) ;
+    border: double 2px rgba(0, 0, 0, 0.678);
+}
+.la-news{
+    margin-top: 7%;
+    
+}
+.la-news h1{
+margin-bottom: 4%;
+}
+.news{
+    margin-top: 10%;
+}
+.news p{
+font-size: 1.7vw;
+}
+.news a{
+    margin-top: 3%;
+    margin-left: 8%;
+}
+footer{
+    margin-top: 10%;
+    background-color: rgba(0, 0, 0, 0.788);
+    height: 20%;
+}
+footer p{
+    color: rgb(234,179,0);
+}
+footer ul{
+    margin-top: 3%;
+    
+   list-style: none;
+}
+footer a{
+    margin-right:1vw ;
+    color: darkgrey;
+}
+footer a:hover{
+  color: rgb(234,179,0);
+}
+
+
+
+
+
+
+
+.icon{
+    font-size: 3vw;
+    margin-bottom: 4%;
+ }
+ .icon:hover{
+ color:rgb(234,179,0) ;
+ }
